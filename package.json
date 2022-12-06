@@ -1,0 +1,22 @@
+{
+  "name": "lat1",
+  "version": "1.0.0",
+  "description": "Latihan ExpressJS",
+  "main": "app2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rohman16/Lat1.git"
+  },
+  "author": "Rohman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rohman16/Lat1/issues"
+  },
+  "homepage": "https://github.com/Rohman16/Lat1#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
